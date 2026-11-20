@@ -1,10 +1,12 @@
 # Mirii Muto Harayama - Data Analysis Portfolio
 
-**About**
+# About
 
-Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
+Hi, I'm Mirii! I am a junior data analyst graduated from Royal Statistical Society (RSS)-accredited program at Datamix data science school located in Tokyo, Japan.
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+I have an analytical background in political science and economics. I have developed a strong foundation in political science and economics and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
+
+During my studies, I especially worked on data analysis on social matters such as economic development and poverty alleviation, and honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I believe data analytics to be a powerful tool to uncover the facts and lead to effective countermeasures to solve social problems. 
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
@@ -12,9 +14,9 @@ My CV in pdf.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-Table of Contents
+# Table of Contents
 
-About
+・About
 
 Portfolio Projects
 
